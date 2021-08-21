@@ -4,7 +4,8 @@
   "description": "An implementation of nodejs and redis cache",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "npm test",
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
