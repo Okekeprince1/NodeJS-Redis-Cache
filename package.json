@@ -1,0 +1,29 @@
+{
+  "name": "nodejs-redis",
+  "version": "0.0.1",
+  "description": "An implementation of nodejs and redis cache",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Okekeprince1/NodeJS-Redis-Cache.git"
+  },
+  "keywords": [
+    "nodejs",
+    "redis",
+    "cache"
+  ],
+  "author": "Okeke Chidiebube",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Okekeprince1/NodeJS-Redis-Cache/issues"
+  },
+  "homepage": "https://github.com/Okekeprince1/NodeJS-Redis-Cache#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "redis": "^3.1.2"
+  }
+}
