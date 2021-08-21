@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "An implementation of nodejs and redis cache",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "npm test",
     "start": "nodemon index.js"
