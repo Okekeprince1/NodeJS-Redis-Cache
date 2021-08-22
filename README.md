@@ -10,7 +10,7 @@ To get started:<br>
  
  Unzip and run the redis-server.exe file<br>
 
- Using terminal run
+ Got to this project directory using terminal run
  <br>
  
  ```
